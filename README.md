@@ -1,4 +1,6 @@
 Mouaz Taloo AL-Olabi
+
+
 I'm a passionate frontend developer with extensive experience crafting responsive and accessible user interfaces. My journey began with a fascination for design and web aesthetics, which naturally evolved into building professional, scalable frontend architectures.
 
 Throughout my career, I've contributed to startups, freelance job, and full-scale production apps, always focusing on creating exceptional user experiences that combine beautiful design with robust functionality.
